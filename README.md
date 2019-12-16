@@ -1,5 +1,5 @@
 # Instrument Classification:
-Problem: Given a dataset of 2700 training files with unverified labels, predict the classification of the test data.
+Problem: Given a dataset of 2700 training files with unverified labels and 541 testing files with 10 classes each, predict the classification of the test data.
 
 ## Solution: CNN with XGBoost Pre-processing:
 
