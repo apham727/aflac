@@ -35,7 +35,7 @@
     <param>
       <key>_rotation</key>
       <value>0</value>
-    </param>
+    </param> 
     <param>
       <key>generate_options</key>
       <value>no_gui</value>
