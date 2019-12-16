@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 
 """
 The following script creates a KNN model using shortened, resampled length 22050 FFTs of all
-training files.
+training files. This file uses SKLearn's implementation of KNN.
 """
 
 #Import the combined training and meta csv
