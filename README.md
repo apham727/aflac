@@ -9,6 +9,7 @@ In order to be able to classify the wav files in an accurate manner, a two-stage
 ### CNN:
 After reverifying the labels from training set, we created melspectrograms for each wav file in the training and testing data sets. These were then passed through a CNN with the reverified labels. For the CNN, typical network architecture was created at first and then parameters were optimized through trial and error. The network architecture cna be seen in the model below. 
 
+![CNN Architecture](CNN_vis.png)
 
 
 
