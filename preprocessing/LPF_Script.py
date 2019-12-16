@@ -6,7 +6,7 @@ import glob
 
 """
 The following script performs low pass filtering on .wav files in conjuction with the top_block_lpf.py script. The LPF was implemented using GNU radio companion
-"""
+""" 
 
 
 os.chdir('/home/duncan/Documents/ML_Project/rice-elec301-f19/301-project.audio_test/301-project.audio_test')
